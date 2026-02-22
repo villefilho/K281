@@ -19,7 +19,8 @@ Updated at: JAN 28th 2026
    1. Resource ownership
    2. Register Wellspring & Dragon Mound
    3. Causes for Gold Mounds/Tar Wellspring Mining & Registration Ban
-   4. Additional Resource Tile, Tar Wellspring, & Gold Mound Clarification 
+   4. Additional Resource Tile, Tar Wellspring, & Gold Mound Clarification
+   5. REGULATIONS FOR MODERATORS OF K281 GOLD & TAR CHATS
 4. ### ATTACKS REGULATION
    1. Clan buildings
    2. Conquest Points exchange
@@ -232,6 +233,28 @@ For a first offense, the attacker must create gold mines for the attacked player
 
 If the attacker strikes again within two weeks, the penalty doubles. A third attack in that timeframe classifies the attacker as an outlaw, leading to expulsion from the kingdom.
 
+### 3.v. REGULATIONS FOR MODERATORS OF K281 GOLD & TAR CHATS
+
+Framework for moderators to ensure order & compliance with the ROE for DM & WS.
+
+Moderators are King appointed & have executive authority in chats. Their decisions must be followed immediately & can be reviewed by the Kingdom's Courts.
+
+Moderators must:
+
+Enforce zero tolerance for disorder.
+Remain neutral towards players & alliances.
+
+Act immediately to correct issues & disputes to maintain stability.
+
+Ensure adherence to the ROE & document violations.
+
+Issue warnings & silences; suspend repeat offenders for 1-7 days. Serious cases will involve the court.
+
+Keep discussions relevant, remove off-topic comments, & manage conflicts in private.
+
+*****Moderators will be regularly evaluated. Serious offenses can lead to removal as moderator by the King based on recommendations.
+
+
 ### 4. ATTACKS REGULATION
 
 ### 4.i. Clan buildings
@@ -257,7 +280,6 @@ agreed CP exchange
 
 Sending reinforcements to reinforce a city under attack is allowed.
 
-[VOT] Ginger CoralCalypso: 2026/1/20 03:50 [VOT] Coral Calypso:
 ### 4.iv  Clash of the Throne
 
 Clash of the Throne (COT) is a three-day event. The first two days are the only PvP days in K281, while day three is for voting only and is not PvP as senators have been established.
