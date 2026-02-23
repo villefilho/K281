@@ -1,7 +1,8 @@
 # K281
 # Rules Of Engagement - ROE
 
-Maintainer: [VOT] Ginger CoralCalypso
+Maintainer (in game): [VOT] Ginger CoralCalypso
+Maintainer (web version): [KGB] Zoidberg
 Updated at: JAN 28th 2026
 
 ## Table of Contents K281 ROE:
