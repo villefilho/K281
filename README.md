@@ -235,25 +235,20 @@ If the attacker strikes again within two weeks, the penalty doubles. A third att
 
 ### 3.v. REGULATIONS FOR MODERATORS OF K281 GOLD & TAR CHATS
 
-Framework for moderators to ensure order & compliance with the ROE for DM & WS.
-
 Moderators are King appointed & have executive authority in chats. Their decisions must be followed immediately & can be reviewed by the Kingdom's Courts.
 
 Moderators must:
-
 Enforce zero tolerance for disorder.
 Remain neutral towards players & alliances.
 
 Act immediately to correct issues & disputes to maintain stability.
-
 Ensure adherence to the ROE & document violations.
 
 Issue warnings & silences; suspend repeat offenders for 1-7 days. Serious cases will involve the court.
 
 Keep discussions relevant, remove off-topic comments, & manage conflicts in private.
 
-*****Moderators will be regularly evaluated. Serious offenses can lead to removal as moderator by the King based on recommendations.
-
+*****Moderators will be regularly evaluated by the Court Judges & Palace. Serious offenses can lead to removal as moderator by the King based on recommendations.
 
 ### 4. ATTACKS REGULATION
 
