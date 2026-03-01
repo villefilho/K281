@@ -75,14 +75,9 @@ As well as above listed, any sitting or elected Senator that violates the ROE  o
 
 ### 1.iii. Cross kingdom courtesy
 
-Our kingdom is part of the IKFPA alliance and respects the rules: no attacks on clan buildings, memorial portals, and players below 100K might, and no attack on resources tiles except during specific events.
-Always stay up to date on ROE.
-
-Remember: We respect the ROE. ALL OF US, you and me. Set a good example for your co-players and peacefully solve problems between players. All clans must be promoters of making ROE known to new players.
-
 Each clan must:
 
-include "We respect the ROE of K281" in its description, so that everyone can see them.
+include "We respect the ROE of K281" in its description, so that everyone can see them or else not have the protection that ROE provides (safety for players under 100k remains)- this is to identify bot clans or non-compliant clans.
 
 add their clan leader in the clan leaders' chat.
 
